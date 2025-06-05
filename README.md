@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/elamantaalaibeckov/elamantaalaibeckov/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img alt="Snake animation" src="https://github.com/elamantaalaibeckov/elamantaalaibeckov/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 [🇷🇺 Перейти на русский](#-на-русском) | [🇬🇧 Switch to English](#-in-english)
