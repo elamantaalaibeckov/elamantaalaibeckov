@@ -25,7 +25,6 @@
 - Email: taalai5ekovelaman@gmail.com  
 - Telegram: +996550343569  
 - Instagram: [@taalaibekow_e](https://www.instagram.com/taalaibekow_e?igsh=MW5ucDJvNHp6bmtsaQ&utm_source=qr)  
-😄 Pronouns: he / him  
 ⚡ Fun fact: I love building useful and functional mobile apps
 
 ---
@@ -56,7 +55,6 @@
 - Email: taalai5ekovelaman@gmail.com  
 - Telegram: +996550343569  
 - Instagram: [@taalaibekow_e](https://www.instagram.com/taalaibekow_e?igsh=MW5ucDJvNHp6bmtsaQ&utm_source=qr)  
-😄 Мои местоимения: он / его  
 ⚡ Интересный факт: люблю создавать полезные мобильные приложения, которые реально работают
 
 ---
