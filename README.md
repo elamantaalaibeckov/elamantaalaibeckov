@@ -8,11 +8,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
 </p>
 
-<p align="center">
-  <img alt="Snake animation" src="https://github.com/elamantaalaibeckov/elamantaalaibeckov/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
-[🇷🇺 Перейти на русский](#-на-русском) | [🇬🇧 Switch to English](#-in-english)
 
 ---
 
