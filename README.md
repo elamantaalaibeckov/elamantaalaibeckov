@@ -4,9 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F58C&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Elaman+%F0%9F%91%8B;I'm+a+mobile+developer+%F0%9F%93%B1;I+build+Flutter+apps+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+</p>
 
-
-
+<p align="center">
+  <img src="https://github.com/elamantaalaibeckov/elamantaalaibeckov/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 [🇷🇺 Перейти на русский](#-на-русском) | [🇬🇧 Switch to English](#-in-english)
 
@@ -39,6 +43,16 @@
 
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elamantaalaibeckov&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 GitHub Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elamantaalaibeckov&theme=tokyonight)
+
+---
+
+### 🥇 GitHub Trophies  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=elamantaalaibeckov&theme=tokyonight)
 
 ---
 
