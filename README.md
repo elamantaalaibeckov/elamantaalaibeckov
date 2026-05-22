@@ -1,76 +1,69 @@
-## 👋 Hi, I'm Elaman from Kyrgyzstan 🇰🇬
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F58C&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Elaman+%F0%9F%91%8B;I'm+a+mobile+developer+%F0%9F%93%B1;I+build+Flutter+apps+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff9d,100:58a6ff&height=300&section=header&text=Elaman&fontSize=90&fontColor=00ff9d&animation=twinkling&fontAlignY=55&desc=Flutter%20Developer%20%F0%9F%87%B0%F0%9F%87%AC%20from%20Kyrgyzstan&descSize=20&descAlignY=75&descColor=58a6ff" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
-</p>
+</div>
 
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF9D&center=true&vCenter=true&width=500&lines=Hello+World!+I'm+Elaman+%F0%9F%91%8B;Flutter+%26+Dart+Developer+%F0%9F%93%B1;Building+cross-platform+apps+%F0%9F%9A%80;Based+in+Osh%2C+Kyrgyzstan+%F0%9F%87%B0%F0%9F%87%AC;406+commits+and+counting...+%F0%9F%94%A5" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🌍 About Me (in English)
+## 🛠️ Tech Stack
 
-🔭 I'm currently doing an internship in mobile app development  
-🌱 I'm learning and working with Flutter, Dart, HTML, CSS, Firebase, and C++  
-📱 I'm building cross-platform mobile applications  
-👯 I'm looking to collaborate on real-world projects to improve my skills and gain teamwork experience  
-📍 Based in Osh, Kyrgyzstan 🇰🇬  
-📫 Contact me:
-- Email: taalai5ekovelaman@gmail.com  
-- Telegram: +996550343569  
-- Instagram: [@taalaibekow_e](https://www.instagram.com/taalaibekow_e?igsh=MW5ucDJvNHp6bmtsaQ&utm_source=qr)  
-⚡ Fun fact: I love building useful and functional mobile apps
+<div align="center">
 
----
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🛠️ Technologies I use:
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+</div>
 
 ---
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elamantaalaibeckov&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elamantaalaibeckov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elamantaalaibeckov&layout=compact&theme=tokyonight&border_radius=10"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elamantaalaibeckov&theme=tokyonight&border_radius=10" />
+</div>
 
 ---
 
-### 🔥 GitHub Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elamantaalaibeckov&theme=tokyonight)
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=elamantaalaibeckov&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
 
 ---
 
-### 🥇 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=elamantaalaibeckov&theme=tokyonight)
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/elamantaalaibeckov/elamantaalaibeckov/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
 
 ---
 
-## 🇷🇺 На русском
+## 📫 Contact
 
-🔭 Сейчас я прохожу стажировку в сфере мобильной разработки  
-🌱 Изучаю и практикую Flutter, Dart, HTML, CSS, Firebase и C++  
-📱 Создаю кроссплатформенные мобильные приложения  
-👯 Хочу участвовать в реальных проектах, чтобы развивать навыки и работать в команде  
-📍 Живу в Оше, Кыргызстан 🇰🇬  
-📫 Связаться со мной:
-- Email: taalai5ekovelaman@gmail.com  
-- Telegram: +996550343569  
-- Instagram: [@taalaibekow_e](https://www.instagram.com/taalaibekow_e?igsh=MW5ucDJvNHp6bmtsaQ&utm_source=qr)  
-⚡ Интересный факт: люблю создавать полезные мобильные приложения, которые реально работают
+<div align="center">
 
----
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taalai5ekovelaman@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+996550343569)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taalaibekow_e)
 
-### 🛠️ Технологии, которые я использую:
-(см. список выше 👆)
+</div>
 
----
-
-### 📈 Статистика GitHub
-(см. статистику выше 👆)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:00ff9d&height=120&section=footer" />
+</div>
