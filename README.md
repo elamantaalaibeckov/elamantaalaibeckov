@@ -1,6 +1,4 @@
-<!--
-  ELAMAN // GitHub Profile README
-  Theme: Neon Emerald · Dark Cyber Minimal
+
   Profile: github.com/elamantaalaibeckov
 -->
 
