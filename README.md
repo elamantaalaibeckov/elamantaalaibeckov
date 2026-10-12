@@ -1,69 +1,147 @@
+<!--
+  ELAMAN // GitHub Profile README
+  Theme: Neon Emerald · Dark Cyber Minimal
+  Profile: github.com/elamantaalaibeckov
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff9d,100:58a6ff&height=300&section=header&text=Elaman&fontSize=90&fontColor=00ff9d&animation=twinkling&fontAlignY=55&desc=Flutter%20Developer%20%F0%9F%87%B0%F0%9F%87%AC%20from%20Kyrgyzstan&descSize=20&descAlignY=75&descColor=58a6ff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;height=270&amp;color=0:0D1117,50:063D32,100:0D1117&amp;text=ELAMAN&amp;fontSize=84&amp;fontColor=00FFAA&amp;animation=twinkling&amp;fontAlignY=43&amp;desc=TAALAYBEKOV%20%7C%20FLUTTER%20DEVELOPER&amp;descSize=19&amp;descAlignY=66&amp;descColor=9AE8D6" alt="Elaman Taalaybekov — Flutter Developer" />
+
+  <a href="https://github.com/elamantaalaibeckov">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=00FFAA&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=740&amp;lines=Hello%2C+World!+I%27m+Elaman+%F0%9F%91%8B;Flutter+%26+Dart+Developer+%F0%9F%93%B1;Turning+ideas+into+real+apps+%F0%9F%9A%80;Building+from+Osh%2C+Kyrgyzstan+%F0%9F%87%B0%F0%9F%87%AC;Code.+Create.+Improve.+Repeat." alt="Animated introduction" />
+  </a>
+
+  <br />
+
+  <a href="https://github.com/elamantaalaibeckov?tab=followers"><img src="https://img.shields.io/github/followers/elamantaalaibeckov?style=for-the-badge&amp;label=FOLLOWERS&amp;color=00C896&amp;labelColor=0D1117" alt="GitHub followers" /></a>
+  <a href="https://github.com/elamantaalaibeckov?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=00FFAA" alt="Explore my repositories" /></a>
+  <img src="https://komarev.com/ghpvc/?username=elamantaalaibeckov&amp;label=PROFILE+VIEWS&amp;color=00C896&amp;style=for-the-badge" alt="Profile views" />
 
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF9D&center=true&vCenter=true&width=500&lines=Hello+World!+I'm+Elaman+%F0%9F%91%8B;Flutter+%26+Dart+Developer+%F0%9F%93%B1;Building+cross-platform+apps+%F0%9F%9A%80;Based+in+Osh%2C+Kyrgyzstan+%F0%9F%87%B0%F0%9F%87%AC;406+commits+and+counting...+%F0%9F%94%A5" alt="Typing SVG" />
-</div>
+<br />
 
----
+## `01` / ABOUT ME
 
-## 🛠️ Tech Stack
+```dart
+class Elaman {
+  final String name = 'Elaman Taalaybekov';
+  final String location = 'Osh, Kyrgyzstan 🇰🇬';
+  final String focus = 'Flutter & Dart';
 
-<div align="center">
+  List<String> interests = [
+    'Mobile development',
+    'Clean UI & great UX',
+    'Useful digital products',
+    'Continuous learning',
+  ];
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  String get mission => 'Turn great ideas into real products.';
+}
+```
 
-</div>
+I'm a **Flutter developer** from **Osh, Kyrgyzstan 🇰🇬**, passionate about creating polished cross-platform applications and solving everyday problems with code. I enjoy learning new technologies, building practical projects, and improving one commit at a time.
 
----
+- 📱 **Main focus:** Flutter, Dart and mobile-first experiences
+- 🛠️ **Also work with:** Firebase, C++, HTML and CSS
+- 🌱 **Exploring:** Web development, product design and scalable ideas
+- 💬 **Let's talk about:** Apps, development and interesting collaborations
 
-## 📊 GitHub Stats
+<br />
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elamantaalaibeckov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elamantaalaibeckov&layout=compact&theme=tokyonight&border_radius=10"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elamantaalaibeckov&theme=tokyonight&border_radius=10" />
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elamantaalaibeckov&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/elamantaalaibeckov/elamantaalaibeckov/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
-
----
-
-## 📫 Contact
+## `02` / TECH STACK
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taalai5ekovelaman@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+996550343569)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taalaibekow_e)
+**MOBILE & BACKEND**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&amp;theme=dark" alt="Flutter, Dart, Firebase" />
+
+**LANGUAGES & WEB**
+
+<img src="https://skillicons.dev/icons?i=cpp,html,css&amp;theme=dark" alt="C++, HTML, CSS" />
+
+**TOOLS & DESIGN**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&amp;theme=dark" alt="Git, GitHub, VS Code, Figma" />
 
 </div>
 
+<br />
+
+## `03` / GITHUB ANALYTICS
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:00ff9d&height=120&section=footer" />
+
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=elamantaalaibeckov&amp;show_icons=true&amp;bg_color=0D1117&amp;title_color=00FFAA&amp;text_color=D7EDE7&amp;icon_color=58A6FF&amp;border_color=174E43&amp;hide_border=false&amp;rank_icon=github" alt="Elaman GitHub statistics" />
+  <img width="46%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=elamantaalaibeckov&amp;layout=compact&amp;langs_count=7&amp;bg_color=0D1117&amp;title_color=00FFAA&amp;text_color=D7EDE7&amp;border_color=174E43&amp;hide_border=false" alt="Elaman most used languages" />
+
+  <br />
+
+  <img width="75%" src="https://streak-stats.demolab.com?user=elamantaalaibeckov&amp;background=0D1117&amp;border=174E43&amp;stroke=174E43&amp;ring=00FFAA&amp;fire=58A6FF&amp;currStreakNum=00FFAA&amp;sideNums=D7EDE7&amp;currStreakLabel=00FFAA&amp;sideLabels=9DCFC2&amp;dates=94B7AE" alt="GitHub contribution streak" />
+
+</div>
+
+> **Note:** Language percentages reflect code in public GitHub repositories, not total programming proficiency.
+
+<br />
+
+## `04` / CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=elamantaalaibeckov&amp;bg_color=0D1117&amp;color=D7EDE7&amp;line=00E6A3&amp;point=58A6FF&amp;area=true&amp;area_color=065D49&amp;border_color=174E43&amp;radius=12&amp;custom_title=MY%20GITHUB%20ACTIVITY" alt="GitHub activity graph" />
+
+</div>
+
+<br />
+
+## `05` / THE CONTRIBUTION SNAKE 🐍
+
+<div align="center">
+
+  <!-- Generated by .github/workflows/snake.yml on the output branch -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elamantaalaibeckov/elamantaalaibeckov/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elamantaalaibeckov/elamantaalaibeckov/output/github-contribution-grid-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/elamantaalaibeckov/elamantaalaibeckov/output/github-contribution-grid-snake-dark.svg" alt="Snake eating GitHub contributions" />
+  </picture>
+
+</div>
+
+<br />
+
+## `06` / FEATURED WORK
+
+<div align="center">
+
+  <a href="https://github.com/elamantaalaibeckov/320omega_view">
+    <img width="75%" src="https://github-stats-extended.vercel.app/api/pin/?username=elamantaalaibeckov&amp;repo=320omega_view&amp;bg_color=0D1117&amp;title_color=00FFAA&amp;text_color=D7EDE7&amp;icon_color=58A6FF&amp;border_color=174E43" alt="320omega_view Flutter repository" />
+  </a>
+
+  <br /><br />
+
+  <a href="https://github.com/elamantaalaibeckov?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-%E2%86%92-00C896?style=for-the-badge&amp;labelColor=0D1117&amp;color=00C896" alt="View all projects" /></a>
+
+</div>
+
+<br />
+
+## `07` / LET'S CONNECT
+
+<div align="center">
+
+  <a href="mailto:taalai5ekovelaman@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/+996550343569"><img src="https://img.shields.io/badge/TELEGRAM-229ED9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.instagram.com/taalaibekow_e"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
+
+  <br /><br />
+
+  **Have an idea? Let's build something meaningful.**
+
+  <br />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:063D32,100:00C896&amp;height=120&amp;section=footer" width="100%" alt="Neon emerald footer" />
+
 </div>
